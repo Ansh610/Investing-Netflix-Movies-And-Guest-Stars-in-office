@@ -1,19 +1,11 @@
 # Investigating Netflix Movies and Guest Stars in The Office
-**Python projects on DataCamp**
 
-*Apply the foundational skills in Introduction to Python and Intermediate Python courses to manipulate and visualize movie and TV data.*
+
 
 ## 🛠️ Description
-In these projects, I’ll apply the skills I learned in Introduction to Python and Intermediate Python to solve a real-world data science problem. I’ll press “watch next episode” to discover if Netflix’s movies are getting shorter over time and which guest stars appear in the most popular episode of "The Office", using everything from lists and loops to pandas and matplotlib.
+The goal of this project is to explore and analyze data related to two popular topics: Netflix movies and the guest stars who appeared on the American version of the television show "The Office". By leveraging data analysis techniques and visualization tools, we aim to uncover interesting patterns, trends, and insights within these datasets by the use of various python libraries such as panda matplotlib e.t.c.
 
-This project helps me gain experience in an essential data science skill — exploratory data analysis, which allows me to perform critical tasks such as manipulating raw data and drawing conclusions from plots I create of the data.
-
-## 📺 Projects
-### [Guided project](https://github.com/qanhnn12/Investigating-Netflix-Movies-and-Guest-Stars-in-The-Office/tree/main/guided_project)
-
-*Dig into a real-world Netflix movie dataset using everything from lists and loops to pandas and matplotlib.*
-
-#### Project tasks
+### Project tasks
 1. Loading a friend's data into a dictionary
 2. Creating a DataFrame from a dictionary
 3. A visual inspection of our data
@@ -24,5 +16,5 @@ This project helps me gain experience in an essential data science skill — exp
 8. Marking non-feature films
 9. Plotting with color!
 10. What next?
-
+###This project aims to provide a deeper understanding of Netflix's movie offerings and the guest star dynamics in "The Office". Through systematic data analysis and engaging visualizations, we hope to uncover intriguing insights that will appeal to fans of both Netflix and "The Office", as well as data enthusiasts looking for interesting case studies.
 
