@@ -15,6 +15,5 @@ The goal of this project is to explore and analyze data related to two popular t
 7. Digging deeper
 8. Marking non-feature films
 9. Plotting with color!
-10. What next?
 ###This project aims to provide a deeper understanding of Netflix's movie offerings and the guest star dynamics in "The Office". Through systematic data analysis and engaging visualizations, we hope to uncover intriguing insights that will appeal to fans of both Netflix and "The Office", as well as data enthusiasts looking for interesting case studies.
 
